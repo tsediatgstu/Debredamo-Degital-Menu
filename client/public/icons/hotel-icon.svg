@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Debredamo Hotel icon</title>
+  <rect width="64" height="64" rx="12" fill="#ffffff"/>
+  <g fill="#08633d">
+    <path d="M12 51V13h17c15 0 24 8 24 19S44 51 29 51H12zm10-9h7c9 0 14-4 14-10s-5-10-14-10h-7v20z"/>
+    <path d="M25 30l7-7v17h-7z"/>
+    <path d="M34 25l7-6v21h-7z"/>
+    <path d="M43 29l5 4v7h-5z"/>
+  </g>
+  <path d="M7 45c13-12 25-11 36-3 5 4 9 5 14 1-5 8-13 9-21 4-10-6-19-7-29-2z" fill="#ffffff"/>
+  <path d="M7 45c13-12 25-11 36-3 5 4 9 5 14 1-5 8-13 9-21 4-10-6-19-7-29-2z" fill="none" stroke="#08633d" stroke-width="2" stroke-linejoin="round"/>
+</svg>
